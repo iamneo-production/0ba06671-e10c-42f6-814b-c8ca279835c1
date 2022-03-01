@@ -1,0 +1,3 @@
+model/Gadgets.class
+service/GadgetsDao.class
+utility/ConnectionManager.class
